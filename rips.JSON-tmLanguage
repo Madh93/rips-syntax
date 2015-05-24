@@ -1,6 +1,6 @@
 { "name": "Rips",
   "scopeName": "source.rips",
-  "fileTypes": ["s", "asm"],
+  "fileTypes": ["rips"],
   "patterns": [
     {
         "name": "variable.parameter.rips",
