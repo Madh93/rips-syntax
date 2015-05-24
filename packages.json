@@ -1,17 +1,17 @@
 {
-	"schema_version": "1.2",
+	"schema_version": "2.0",
 	"packages": [
 		{
-			"name": "MIPS-Syntax",
-			"description": "Provides MIPS-Syntax for Sublime Text 2. Currently under development",
-			"author": "Manuel Hoffmann",
-			"homepage": "https://github.com/contradictioned/mips-syntax",
-			"last_modified": "2014-01-30 11:29:24",
+			"name": "Rips-Syntax",
+			"description": "Provides MIPS-Syntax for Sublime Text 2/3. Currently under development",
+			"author": "Manuel Hoffmann, Miguel Hernandez",
+			"homepage": "https://github.com/Madh93/rips-syntax/",
+			"last_modified": "2015-05-24 20:35:24",
 			"platforms": {
 				"*": [
 					{
-						"version": "0.1.2",
-						"url": "https://nodeload.github.com/contradictioned/mips-syntax/zip/0.1"
+						"version": "2.0",
+						"url": "https://github.com/Madh93/rips-syntax/"
 					}
 				]
 			}
