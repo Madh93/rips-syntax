@@ -30,7 +30,7 @@
 			<key>comment</key>
 			<string>Instructions provided by the Rips assembly language</string>
 			<key>match</key>
-			<string>\b(add|and|j|jal|ji|jr|beqz|bnez|lesr|li|move|nop|neg|not|or|sesm|sesr|sub)\b</string>
+			<string>\b(add|and|j|jal|ji|jr|beqz|bnez|lesr|lest|li|move|nop|not|or|sesm|sesr|srl|sub)\b</string>
 			<key>name</key>
 			<string>support.function.source.rips</string>
 		</dict>

@@ -14,7 +14,7 @@
     },    
     {
         "name": "support.function.source.rips",
-        "match": "\\b(add|and|j|jal|ji|jr|beqz|bnez|lesr|li|move|nop|neg|not|or|sesm|sesr|sub)\\b",
+        "match": "\\b(add|and|j|jal|ji|jr|beqz|bnez|lesr|lest|li|move|nop|not|or|sesm|sesr|srl|sub)\\b",
         "comment": "Instructions provided by the Rips assembly language"
     },
     {
